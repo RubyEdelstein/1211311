@@ -1,0 +1,86 @@
+{
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "ConnectWallet": {
+    "description": "Auto imported from components/connect/ConnectWallet.vue"
+  },
+  "LazyConnectWallet": {
+    "description": "Auto imported from components/connect/ConnectWallet.vue"
+  },
+  "FarmAction": {
+    "description": "Auto imported from components/farm/FarmAction.vue"
+  },
+  "LazyFarmAction": {
+    "description": "Auto imported from components/farm/FarmAction.vue"
+  },
+  "FarmHeader": {
+    "description": "Auto imported from components/farm/FarmHeader.vue"
+  },
+  "LazyFarmHeader": {
+    "description": "Auto imported from components/farm/FarmHeader.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "Farm": {
+    "description": "Auto imported from components/farms/Farm.vue"
+  },
+  "LazyFarm": {
+    "description": "Auto imported from components/farms/Farm.vue"
+  },
+  "FarmsHeader": {
+    "description": "Auto imported from components/farms/FarmsHeader.vue"
+  },
+  "LazyFarmsHeader": {
+    "description": "Auto imported from components/farms/FarmsHeader.vue"
+  },
+  "Countdown": {
+    "description": "Auto imported from components/general/Countdown.vue"
+  },
+  "LazyCountdown": {
+    "description": "Auto imported from components/general/Countdown.vue"
+  },
+  "Loader": {
+    "description": "Auto imported from components/general/Loader.vue"
+  },
+  "LazyLoader": {
+    "description": "Auto imported from components/general/Loader.vue"
+  },
+  "IndexDataCard": {
+    "description": "Auto imported from components/index/IndexDataCard.vue"
+  },
+  "LazyIndexDataCard": {
+    "description": "Auto imported from components/index/IndexDataCard.vue"
+  },
+  "IndexHeader": {
+    "description": "Auto imported from components/index/IndexHeader.vue"
+  },
+  "LazyIndexHeader": {
+    "description": "Auto imported from components/index/IndexHeader.vue"
+  },
+  "NavbarGuest": {
+    "description": "Auto imported from components/navbar/NavbarGuest.vue"
+  },
+  "LazyNavbarGuest": {
+    "description": "Auto imported from components/navbar/NavbarGuest.vue"
+  },
+  "NavbarRegistered": {
+    "description": "Auto imported from components/navbar/NavbarRegistered.vue"
+  },
+  "LazyNavbarRegistered": {
+    "description": "Auto imported from components/navbar/NavbarRegistered.vue"
+  },
+  "NavList": {
+    "description": "Auto imported from components/navbar/nav_list.js"
+  },
+  "LazyNavList": {
+    "description": "Auto imported from components/navbar/nav_list.js"
+  }
+}

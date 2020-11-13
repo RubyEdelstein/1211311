@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/rubinsymonedelstein/dfinance/agar-farms/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "farms",
+    "path": "/farms",
+    "component": "/Users/rubinsymonedelstein/dfinance/agar-farms/pages/farms.vue",
+    "chunkName": "pages/farms"
+  },
+  {
+    "name": "farm-id",
+    "path": "/farm/:id?",
+    "component": "/Users/rubinsymonedelstein/dfinance/agar-farms/pages/farm/_id.vue",
+    "chunkName": "pages/farm/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/rubinsymonedelstein/dfinance/agar-farms/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
